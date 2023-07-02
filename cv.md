@@ -18,7 +18,19 @@ I am currently working as a system administrator. When there is something that n
 - Git, GitHub
 ### Code Example
 ---
-![code](https://i.postimg.cc/bwsw-TSq7/code-example.jpg)
+**function firstTask() {
+    const arr = [3, 5, 8, 16, 20, 23, 50];
+    const result = [];
+
+    for (let i = 0; i < arr.length; i++) {
+        result[i] = arr[i];
+    }
+
+    console.log(result);
+    return result;
+}
+
+firstTask();**
 ### Experience
 ---
 ### Education
